@@ -1,0 +1,27 @@
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+.titles {
+    text-align: center;
+}
+#table{
+    width: 100%;
+}
+.game{
+    padding: 25px 50px 75px 100px
+}
+.introduction {
+    background-color: gray;
+    color:white;
+
+}
+.main{
+    position: relative;
+    left:20px;
+}
+.jumbotron{
+    background-image: url("dims.jpg");
+    background-size: cover;
+}
